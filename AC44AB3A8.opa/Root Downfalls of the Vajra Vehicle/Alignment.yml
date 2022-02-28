@@ -1,0 +1,19 @@
+segment_sources:
+  P54604643:
+    type: origin_type
+    relation: translation
+    language: en
+  P0DFF25C5:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a0981368ac3943f4b0d9e95dbe784218:
+    P54604643: e981d265a6e04e5485f831c998750380
+    P0DFF25C5: 850a9888a3ce4d639fdaf5d403583513
+  0cc90b2d0f6a4489b0a6908af56989c8:
+    P54604643: 5377d0d21c6f4e14a5f8cf84878662fe
+    P0DFF25C5: 4cccf4a713254bca9e9d7a25bab04ffd
+  4cb3d09b23c44a4aac7e1bb20b10ba84:
+    P54604643: 479b1457d77a491da5e972a1d61e51a7
+    P0DFF25C5: e39ca79f30534439947e7a172f028e62
